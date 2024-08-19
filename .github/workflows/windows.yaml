@@ -3,6 +3,7 @@ name: CI for Windows
 
 # Run on push.
 on: push
+on: workflow_dispatch
 
 permissions: read-all
 
